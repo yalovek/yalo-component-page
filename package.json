@@ -1,0 +1,16 @@
+{
+  "name": "yalo-component-page",
+  "version": "1.0.0",
+  "description": "Yalo component for page layout",
+  "main": "index.jsx",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "component",
+    "react",
+    "layout"
+  ],
+  "author": "Vadim Yalovenko <yalovek@ya.ru>",
+  "license": "MIT"
+}
